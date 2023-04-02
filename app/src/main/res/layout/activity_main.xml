@@ -131,7 +131,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="9dp"
-        android:text="Misafir odanızı ışıl ışıl yapıcak, insanların gözünü alıcak şıklıkta olan bu avize için aşşağıdaki butondan bize ulaşarak detaylı bilgi alabilirsiniz"
+        android:text="Misafir odanızı ışıl ışıl yapıcak, insanların gözünü alıcak şıklıkta olan bu avize için aşağıdaki butondan bize ulaşarak detaylı bilgi alabilirsiniz"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textStyle="bold"
